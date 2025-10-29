@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Lisboa dos Santos Cotovio"
+    given-names: "Ana Maria"
+    email: "Ana.Lisboa@gesis.org"
+    affiliation: "GESIS"
+  - family-names: "Romberg"
+    given-names: "Julia"
+    email: "Julia.Romberg@gesis.org"
+    affiliation: "GESIS"
+  - family-names: "Maurer"
+    given-names: "Maximilian"
+    email: "Maximilian.Maurer@gesis.org"
+    affiliation: "GESIS"
+title: "[Tutorial] Comparing Labeling Behaviour of Annotator Groups"
+version: 1.0
+identifiers:
+  - type: url
+    value: 'https://github.com/juliaromberg/methodshub-perspective-annotation-comparison'
+repository-code: 'https://github.com/juliaromberg/methodshub-perspective-annotation-comparison'
+license: MIT
